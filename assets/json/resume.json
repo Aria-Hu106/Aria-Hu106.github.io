@@ -1,24 +1,17 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Peiying (Aria) Hu",
+    "label": "",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "phu46 [at] wisc [dot] edu",
+    "phone": "",
+    "url": "https://aria-hu106.github.io/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Peiying Hu",
+        "url": "https://www.linkedin.com/in/peiying-hu-405393294/"
       }
     ]
   },
@@ -47,7 +40,7 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
+      "institution": "University of Wisconsin-Madison",
       "location": "Zurich, Switzerland",
       "url": "https://www.uzh.ch/",
       "area": "Software Development",
