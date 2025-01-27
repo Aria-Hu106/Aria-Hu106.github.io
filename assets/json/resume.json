@@ -3,10 +3,10 @@
     "name": "Peiying (Aria) Hu",
     "label": "",
     "image": "",
-    "email": "phu46 [at] wisc [dot] edu",
+    "email": "phu46@wisc.edu",
     "phone": "",
     "url": "https://aria-hu106.github.io/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "Current grad student studying econometrics and quantitative economics at UW-Madison and looking for jobs. I'm passionate about data analysis and market research. Also professional piano player & singer, basic music nerd.",
     "profiles": [
       {
         "network": "LinkedIn",
@@ -17,134 +17,110 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Research Assistant",
+      "position": "University of Wisconsin-Madison",
+      "startDate": "2024-03",
+      "endDate": "2024-10",
+      "summary": "Adivisor: Prof. Deneckere",
+      "highlights": [
+        "Conducted comprehensive analysis of the oil tanker shipping industry (1970-2023), focusing on discrepancies between existing theoretical models and observed market behavior",
+        "Reviewed literature, discussed their strength and weakness; Extracted theoretical models describing how vertical markets reach equilibrium; Summarized patterns in shipowners, charterers, and oil companies across global shipping routes",
+        "Collected and standardized historical data from UNCTAD and Baltic Exchange; Updated and maintained well-organized datasets to support ongoing research objectives"
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Research Intern",
+      "position": "Shenzhen Institute of Financial Stability and Development",
+      "startDate": "2023-02",
+      "endDate": "2023-08",
+      "highlights": [
+        "Conducted financial market research on FOF, government found, pension finance, IPOMS, and digital service; Authorized 12 research reports (200K+ words) and presented in government initiatives; Directly affected policy formulization",
+        "Applied crawler to collect operation data for 60+ companies, established forecasting models and visualized results; Crafted development planning for enterprises; Updated models regularly, significantly enhanced the accuracy of policy assessment",
+        "Participated in 5 SOE financial research communication meetings and wrote meeting reports; Assisted in the preparation and onsite exhibition of the 11th International Financial Trade Fair"
+      ]
+    },
+    {
+      "name": "Intern of Stock Issuance Dept",
+      "position": "Zhejiang Equity Exchange Center",
+      "startDate": "2022-06",
+      "endDate": "2022-11",
+      "highlights": [
+        "Conducted comprehensive market research, fundamental analysis, and backtesting using historical data to simulate investment strategies; Tuned parameters for improved results across different sectors",
+        "Assisted in implementing weekly news tracking system to monitor performance and industry developments for 12+ companies, streamlining data collection and analysis to inform decision-making",
+        "Compiled and reviewed of 30+ stock issuance schemes, researched growth stock-picking strategies and delta/volatility hedging techniques; Gained insights into market dynamics and equity financing processes"
+      ]
+    },
+    {
+      "name": "Intern of Transaction Management Dept",
+      "position": "Zhejiang Intellectual Property Center",
+      "startDate": "2022-02",
+      "endDate": "2022-06",
+      "highlights": [
+        "Assisted in developing financial models to estimate the market value of IP assets; Analyzed historical transaction data and market trends to enhance model accuracy",
+        "Updated dashboards to track trading center efficiency and liquidity, including trade volume and turnover rates; Made information disclosure and updates on the official website; Managed the operation of center’s official account"
+      ]
     }
   ],
   "education": [
     {
       "institution": "University of Wisconsin-Madison",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "area": "Quantitative Economics and Econometrics",
+      "studyType": "Master of Science",
+      "startDate": "2023-09-10",
+      "endDate": "2025-05-10",
+      "courses": ["Econometrics", "Microeconomics", "Macroeconomics", "Machine Learning", "Game Theory", "Political Economics"]
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "institution": "the Chinese University of Hong Kong, Shenzhen",
+      "area": "Applied Economics",
+      "studyType": "Bachelor of Business Administration ",
+      "startDate": "2019-09",
+      "endDate": "2023-05",
+      "courses": ["Political Economics", "Optimization", "Computer Architecture", "Supply Chain Management"]
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programing Language",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "R"
+      ]
+    },
+    {
+      "name": "Statistical Software",
+      "level": "Master",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Stata",
+        "Eviews"
+      ]
+    },
+    {
+      "name": "BI Software",
+      "level": "Master",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Tableau"
+      ]
+    },
+    {
+      "name": "Office Software",
+      "level": "Master",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "LaTex",
+        "Word",
+        "Excel",
+        "PowerPoint"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Mandarin",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -156,38 +132,33 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Music",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Piano(professional)",
+        "Pop singing",
+        "Ukulele"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Customer Profile Segmentation Based on Machine Learning Methods",
+      "startDate": "2024-10",
+      "endDate": "2024-12",
+      "highlights": [
+        "Developed a data processing pipeline supporting outlier detection, normalization, encoding, and PCA to improve data quality; Achieved 10% increase in model accuracy compared to using raw data for training",
+        "Implemented logistic regression, SVM, and K-Means algorithms to construct consumer profile; Optimized hyper-parameters based on cross-validation results; Achieved over 85% accuracy in predicting consumer purchase intent",
+        "Performed comparative analysis of model outcomes, delivered actionable insights into customer purchase intent and segmentation, supporting data-driven marketing strategies and resource optimization"
+      ],
+      "url": "https://aria-hu106.github.io/assets/pdf/CustomerSegmentation.pdf"
+    },
+    {
+      "name": "The Effects of Having a Second Child on Chinese Women's Wages",
+      "startDate": "2024-09",
+      "endDate": "2024-12",
+      "highlights": ["Analyzed the impact of having a second child on Chinese women's wages using Difference-in-Differences (DID) and Propensity Score Matching (PSM), revealed significant heterogeneity and persistence in wage penalties across different income levels, proposed policy recommendations to address the motherhood wage penalty"],
+      "url": "https://aria-hu106.github.io/assets/pdf/ChineseWomen.pdf"
     }
   ]
 }
