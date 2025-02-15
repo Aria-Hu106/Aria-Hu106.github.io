@@ -29,7 +29,7 @@
       ]
     },
     {
-      "name": "Research Intern",
+      "name": "Financial Service Intern",
       "position": "Shenzhen Institute of Financial Stability and Development",
       "startDate": "2023-02",
       "endDate": "2023-08",
@@ -86,7 +86,8 @@
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Python",
-        "R"
+        "R",
+        "SQL"
       ]
     },
     {
